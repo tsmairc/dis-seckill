@@ -39,6 +39,7 @@
         <dubbo.version>2.7.1</dubbo.version>
         <fastjson.version>1.2.38</fastjson.version>
         <top-version>1.0.0</top-version>
+        <rocketmq-spring-boot-starter.version>2.2.0</rocketmq-spring-boot-starter.version>
     </properties>
 
     <dependencyManagement>
@@ -174,6 +175,13 @@
                 <artifactId>junit</artifactId>
                 <version>${junit.version}</version>
             </dependency>
+
+            <dependency>
+                <groupId>org.apache.rocketmq</groupId>
+                <artifactId>rocketmq-spring-boot-starter</artifactId>
+                <version>${rocketmq-spring-boot-starter.version}</version>
+            </dependency>
+
 
         </dependencies>
 

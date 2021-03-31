@@ -1,0 +1,6 @@
+com/seckill/dis/mq/receiver/MqConsumer.class
+com/seckill/dis/mq/config/MQConfig.class
+com/seckill/dis/mq/RocketMQController.class
+com/seckill/dis/mq/service/MqProviderImpl.class
+com/seckill/dis/mq/receiver/MqConsumer$ConsumerSend.class
+com/seckill/dis/mq/MqApplication.class
